@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "MD Raza",
+      "oem": "Motorola",
+      "device": "Moto G9 Play",
+      "filename": "EvolutionX-14.0-20240425-guamp-v9.0.zip",
+      "download": "https://sourceforge.net/projects/razadroidproject/files/guamp/EvolutionX/EvolutionX-14.0-20240425-guamp-v9.0.zip/download",
+      "timestamp": 1713985634,
+      "md5": "631b529b7bd155ae4c742c06b51bf460",
+      "sha256": "9227a1333eded0f465ecae2f9f68b387a0a971608084e4b58b2b39e671313cb7",
+      "size": 1404098386,
+      "version": "9.0",
+      "buildtype": "Monthly",
+      "forum": "https://t.me/RazaDroidProject",
+      "firmware": "",
+      "paypal": "Really",
+      "telegram": "https://telegram.me/DelightReza"
+    }
+  ]
+}
