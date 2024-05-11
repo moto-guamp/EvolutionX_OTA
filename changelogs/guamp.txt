@@ -1,1 +1,3 @@
-Initial Build
+🔵 Fixed Mic Issues
+🔵 Fix FM Radio Sound
+🔵 May Security Patch
